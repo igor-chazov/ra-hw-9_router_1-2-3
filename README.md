@@ -1,7 +1,7 @@
 <a name="top"></a>
 
 # 9. Домашнее задание к лекции «React Router»
-[![Build status](https://ci.appveyor.com/api/projects/status/l4x6ud7qaqjmir37?svg=true)](https://ci.appveyor.com/project/igor-chazov/ra-hw-9-router-1-2-3) [[GithubPages](https://igor-chazov.github.io/ra-hw-9_router_1-2-3)]
+[![Build status](https://ci.appveyor.com/api/projects/status/3gki2uwqkmskd7ca?svg=true)](https://ci.appveyor.com/project/igor-chazov/ra-hw-9-router-1-2-3) [[GithubPages](https://igor-chazov.github.io/ra-hw-9_router_1-2-3)]
 
 ---
 
