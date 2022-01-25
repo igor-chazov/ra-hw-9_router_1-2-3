@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ra-hw-9_router_1-2-3/static/css/main.e9ca2ac8.css",
+    "main.js": "/ra-hw-9_router_1-2-3/static/js/main.0e41fad2.js",
+    "static/js/787.2295eca3.chunk.js": "/ra-hw-9_router_1-2-3/static/js/787.2295eca3.chunk.js",
+    "static/media/Montserrat-Regular.woff2": "/ra-hw-9_router_1-2-3/static/media/Montserrat-Regular.4d9eac545dbd8e6e6e7d.woff2",
+    "static/media/Montserrat-Regular.woff": "/ra-hw-9_router_1-2-3/static/media/Montserrat-Regular.2f9bb87d767918726ee3.woff",
+    "static/media/Spinner-1s-200px.svg": "/ra-hw-9_router_1-2-3/static/media/Spinner-1s-200px.664363ca15ae4c09e711.svg",
+    "index.html": "/ra-hw-9_router_1-2-3/index.html",
+    "main.e9ca2ac8.css.map": "/ra-hw-9_router_1-2-3/static/css/main.e9ca2ac8.css.map",
+    "main.0e41fad2.js.map": "/ra-hw-9_router_1-2-3/static/js/main.0e41fad2.js.map",
+    "787.2295eca3.chunk.js.map": "/ra-hw-9_router_1-2-3/static/js/787.2295eca3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9ca2ac8.css",
+    "static/js/main.0e41fad2.js"
+  ]
+}
